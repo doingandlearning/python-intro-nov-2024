@@ -1,5 +1,9 @@
 # Introduction to Programming for Non-Programmers (using Python)
 
+- Kevin Cunningham
+  - https://kevincunningham.co.uk
+  - kevin@kevincunningham.co.uk
+
 ## Audience
 
 - Individuals who would like to learn the principles of computer programming.
@@ -18,7 +22,7 @@
 
 ## Duration
 
-- 3 Days
+- 3 Days (delivered over 4 shorter days)
 
 ---
 
