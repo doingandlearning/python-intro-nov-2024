@@ -45,3 +45,12 @@ Game Over
 ---
 
 Incorporate this list of guesses into your existing game to track and display the guesses after the game concludes.
+
+
+---
+
+Possible extensions:
+
+- Feedback After Each Guess: After each guess, provide more specific feedback on how close the guess is to the target.
+- Hint System: After three incorrect attempts, offer a hint by specifying if the target number is in the upper or lower half of the range.
+- Play Again Option: At the end of each game, allow the user to decide if they want to play again.
