@@ -68,3 +68,51 @@ The aim of this activity is to use a **Set**.
    Removing the Cardiff flight
    All key-value pairs: dict_items([('London', ('EY123', 'Monday', '12:00', 'Geneva')), ('Geneva', ('AI454', 'Tuesday', '13:00', 'London')), ('Dublin', ('BA987', 'Wednesday', '14:00', 'Dublin')), ('Seville', ('SA527', 'Thursday', '11:00', 'Cardiff')), ('France', ('AF429', 'Saturday', '09:00', 'London'))])
    ```
+
+
+### Extensions for Activity 1: Sets
+
+1. **Top Performers**:
+   - Assume the students who took both the exam and submitted a project are top performers.
+   - Create a new set of "Top Performers" containing these students, and print it.
+   
+2. **Counting Participation**:
+   - Count how many students participated in either the exam or the project. Print the total unique count.
+
+3. **Comparing with Another Class**:
+   - Introduce a new set representing students from another class who only took the exam.
+   - Print which students are common between the two classes.
+   - Print students who are unique to each class.
+
+4. **Add Extra Students**:
+   - Allow the user to add a new student to each of the "exam" and "project" sets.
+   - Print out the updated sets and any changes in students who completed both or only one of the activities.
+
+5. **Set Symmetry Check**:
+   - Check if both sets have the same number of students.
+   - If not, print which set has more participants.
+
+---
+
+### Extensions for Activity 2: Dictionaries
+
+1. **Flight Schedule by Destination**:
+   - Create a reverse lookup dictionary where each destination is a key, and the value is a list of all flights that go to that destination.
+   - Print the dictionary to show which cities have flights heading to the same destination.
+
+2. **Finding Flights on a Specific Day**:
+   - Ask the user to enter a day of the week.
+   - Print out all flights that depart on that day, showing the city, time, and destination.
+
+3. **Time Zone Adjustments**:
+   - Assume each flight is in local time and needs to be converted to UTC.
+   - Adjust each time by a random offset (simulating different time zones) and print the new schedule.
+
+4. **Updating a Flight Schedule**:
+   - Prompt the user to update the details of a flight, such as changing the time or destination for a city.
+   - After updating, print the full schedule to show the change.
+
+5. **Flight Connections**:
+   - Create a function that checks if there is a connecting flight from one city to another within the next two hours.
+   - For instance, if a flight from London arrives in Geneva at 12:00, check if there’s another flight departing from Geneva before 14:00.
+   - Print out any connections found for cities with flights close to each other.
