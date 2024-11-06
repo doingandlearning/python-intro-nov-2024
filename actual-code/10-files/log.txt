@@ -1,0 +1,17 @@
+2024-11-06 13:12:06.100919: It's fun here.
+2024-11-06 13:12:17.329495: It's fun here.
+2024-11-06 13:12:28.868309: It's fun here.
+2024-11-06 13:13:18.605047: We can open files using open()
+2024-11-06 13:13:57.655418: Check if Bern is actually the capital of Switzerland
+2024-11-06 13:14:48.702695: Check if Bern is actually the capital of Switzerland
+2024-11-06 13:14:53.896142: Check if Bern is actually the capital of Switzerland
+2024-11-06 13:14:55.425895: Check if Bern is actually the capital of Switzerland
+2024-11-06 13:14:57.048930: Check if Bern is actually the capital of Switzerland
+2024-11-06 13:15:08.036564: Check if Bern is actually the capital of Switzerland
+2024-11-06 13:16:02.555763: I can send messages from the command line
+2024-11-06 13:16:20.653561: I can do many things as well
+
+
+2024-11-06 13:16:28.583734: I can do many things as well
+2024-11-06 13:17:02.322005: Typing in python all the time is annoying
+2024-11-06 13:17:39.543039: I don't have to type in python now
